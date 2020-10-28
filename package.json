@@ -6,6 +6,7 @@
   "author": "Robbie Minshall <rjminsha@us.ibm.com>",
   "dependencies": {
     "express": "4.17.1",
+    "mocha": "*",
     "should": "*",
     "nconf": "*",
     "validator": "*",
